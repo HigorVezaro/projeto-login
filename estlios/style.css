@@ -110,6 +110,10 @@ div.campo > input {
     
 }
 
+div.campo > input:focus-within {
+    background-color: white;
+}
+
 div.campo > label {
     display: none;
 }
