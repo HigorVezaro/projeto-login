@@ -45,6 +45,25 @@ section#login {
     transition-timing-function: ease;
 }
 
+/* Tentei mas não foi... kk
+ p#usuario {
+    background-color: #5f2c82;
+    border-radius: 6px;
+}
+
+input#iemail{
+    background-color: #49A09D ;
+    margin: 5px;
+    border-radius: 4px;
+    height: 95%;
+}
+
+span#boneco{
+    color: white;
+    margin-top: 10px;
+} 
+*/
+
 section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/metal.jpg) no-repeat;
